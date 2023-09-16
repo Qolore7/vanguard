@@ -25,6 +25,27 @@ This guide highlights major mods included in Vanguard in the following categorie
   - [New Content](#new-content)
   - [New Items](#new-items)
 
+## General Tips
+
+### Play in third person
+Vanguard is an MCO (Modern Combat Overhaul)-based lis, meaning combat is meant to be played in third person. First person has received some improvements with [Improved Camera](https://www.nexusmods.com/skyrimspecialedition/mods/93962) and [Comprehensive First Person Animation Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/87169), but third person is highly recommended for combat. It was something I was initially hesitant about, but I highly recommend trying it out for yourself. I personally play a hybrid of exploring in first person and then switching to third person in combat.
+
+### Difficulty
+
+Difficulty scales very differently in Vanguard compared to vanilla. Rather than lowering player damage, it remains consistent while enemy damage increases. Here is how the scaling is broken down: 
+
+        Novice:      1.5x damage dealt / 0.5x damage received
+       
+        Apprentice:  1.0x damage dealt / 1.0x damage received
+        
+        Adept:       1.0x damage dealt / 1.5x damage received
+        
+        Expert:*     1.0x damage dealt / 2.0x damage received
+        
+        Master:      1.0x damage dealt / 2.5x damage received
+        
+        Legendary:   1.0x damage dealt / 3.0x damage received
+
 ## Hotkeys
 
 <img src="https://raw.githubusercontent.com/Qolore7/vanguard/main/controls.png">
