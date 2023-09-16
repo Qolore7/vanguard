@@ -68,7 +68,7 @@ These are just the highlights, there are many more mods included!
 - [Pilgrim](https://www.nexusmods.com/skyrimspecialedition/mods/54099) + [Pilgrim - Divine Restrictions](https://www.nexusmods.com/skyrimspecialedition/mods/88814)
 - [Siberpunk's "Environs" Mods](https://www.nexusmods.com/skyrimspecialedition/users/36774500)
 - [Sirenroot](https://www.nexusmods.com/skyrimspecialedition/mods/70917)
-= [Heart of the Reach](https://www.nexusmods.com/skyrimspecialedition/mods/76494)
+- [Heart of the Reach](https://www.nexusmods.com/skyrimspecialedition/mods/76494)
 - [Penitus Oculatus](https://www.nexusmods.com/skyrimspecialedition/mods/21061)
 - [Dark Brotherhood Rising Revengence](https://www.nexusmods.com/skyrimspecialedition/mods/57157)
 - [Jayserpa's Quest Expansions & More](https://www.nexusmods.com/skyrimspecialedition/users/5201727)
