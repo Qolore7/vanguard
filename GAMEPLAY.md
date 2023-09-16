@@ -27,7 +27,7 @@ This guide highlights major mods included in Vanguard in the following categorie
 
 ## Hotkeys
 
-WIP picture
+<img src="https://raw.githubusercontent.com/Qolore7/vanguard/main/controls.png">
 
 ## Gameplay
 
