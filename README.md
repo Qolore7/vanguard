@@ -31,7 +31,7 @@
 
 ## List Contents
 
-You can browse the full list contents [here](https://loadorderlibrary.com/lists/Vanguard-wip) if you want to know exactly what you're getting.
+You can browse the full list contents [here](https://loadorderlibrary.com/lists/Vanguard) if you want to know exactly what you're getting.
 
 You can find a summary of all changes on the [Gameplay Changes](GAMEPLAY.md) page.
 
