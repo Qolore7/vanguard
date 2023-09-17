@@ -13,6 +13,29 @@
 ---
 
 # Changelog
+### 1.0.1 (September 17 2023)
+This update IS save-game compatible. You will get a message about a missing plugin when loading your save, but that is okay to ignore.
 
-### 9/16/23
+**Added:**
+- Sound Fix for Large Sector Drives
+- Custom Skills Framework
+- Instantly Skip Dialogue NG
+- High Poly Vanilla Hair
+- Salt and Wind - Vanilla Hair Retexture
+- Magical Scaling
+- Stormcrown - A Shout Overhaul
+
+**Updated:**
+- Skyrim Skill Uncapper
+- Thaumaturgy 
+- Artifacts of the Ancestors
+- Improved Camera
+
+**Removed:**
+- No Disarm (Unequip Instead) [essentially replaced by Stormcrown]
+
+**Other:**
+- Fixed JContainersGOG not working
+
+### 1.0.0 (September 16 2023)
 Release :)
