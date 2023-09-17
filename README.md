@@ -48,8 +48,11 @@ You can find a summary of all changes on the [Gameplay Changes](GAMEPLAY.md) pag
 
 # Installation:
 
+## Disabling the Anniversary DLC
+This step is only required for users who have the paid Anniversary Upgrade DLC. This DLC will need to be disabled as this list is only designed for the free update. The DLC can be disabled in Steam by right-clicking on Skyrim in your Library, selecting `Properties... -> DLC`, then un-checking the box next to **The Elder Scrolls V: Skyrim Anniversary Upgrade**. For GOG, select `Settings -> Manage Installation -> Configure... -> DLC` and un-check **The Elder Scrolls V: Skyrim Anniversary Upgrade**.
+
 ## Clean Install
-Lost Liberty requires a completely clean installation of Skyrim Special Edition. This means completely deleting both the game folder and also the folder located in `Documents\My Games\Skyrim Special Edition` then reinstalling the game through Steam/GOG. The game MUST be installed outside of any default Windows folders, such as `Program Files`, your `Desktop`, or `Documents.` If you have your Steam library in any of these locations, please follow [these](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide) instructions to move it.
+Vanguard requires a completely clean installation of Skyrim Special Edition. This means completely deleting both the game folder and also the folder located in `Documents\My Games\Skyrim Special Edition` then reinstalling the game through Steam/GOG. The game MUST be installed outside of any default Windows folders, such as `Program Files`, your `Desktop`, or `Documents.` If you have your Steam library in any of these locations, please follow [these](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide) instructions to move it.
 
 ## Starting Skyrim
 1. Run the launcher from Steam/GOG
