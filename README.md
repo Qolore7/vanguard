@@ -25,6 +25,7 @@
 - [Startup](#startup)
   - [Optional Mods](#optional-mods)
   - [ReShade](#reshade)
+  - [GOG Support](#gog-support)
   - [Configuration](#setup-and-configuration)
 
 ## Introduction
