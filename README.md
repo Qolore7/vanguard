@@ -18,11 +18,14 @@
   - [List Contents](#list-contents)
   - [Requirements](#requirements)
 - [Installation](#installation)
+    - [Disabling AE DLC](#disabling-the-anniversary-dlc)
     - [Clean Install](#clean-install)
     - [Starting the Game](#starting-skyrim)
     - [Downloading and Installing](#downloading-and-installing)
 - [Startup](#startup)
-- [Credits](#credits)
+  - [Optional Mods](#optional-mods)
+  - [ReShade](#reshade)
+  - [Configuration](#setup-and-configuration)
 
 ## Introduction
 
@@ -75,8 +78,23 @@ The download and installation process can take a little while (an hour or more) 
 
 Open the installation folder and double click on the program called `ModOrganizer.exe`.
 
-IMPORTANT:
+## Optional Mods
+
+There are a few optional mods that can be found under the `Optional Mods` separator in the left pane of MO2. 
+
+- **Custom Control Map**: These are just my personal controls I used when making the list. The specific binds can be found on the [Gameplay Changes](GAMEPLAY.md) page.
+- **Screen Space Shadows** and **Grass Collision**: 5-8 FPS impact combined, so you can enable them if you are happy with your current FPS.
+- **Shadow Boost**: Dynamically lowers shadow quality and view distance to achieve better performance, can be disabled if you are happy with your current FPS.
+- **No Kill Moves**: Disables the frustrating/cheesey kill moves for both the player and NPCs. Can be disabled if you for some reason enjoy the feature, but I highly recommend keeping them off.
+- **Simple Degredation**: Adds a lightweight weapon condition system that makes tempered weapons slowly degrade back to their untempered state. Can be disabled if you dislike the feature.
+
+## ReShade
+The list comes with an optional ReShade preset that makes the game a lot more vibrant. It is disabled by default as I think it can make some of the brighter weathers look a little too washed out, but it is up to personal preference. I highly recommend trying it out for yourself. It should have little to no performance impact. [Here](https://imgsli.com/MjA2NzY0) is a comparison shot of the ReShade off and on during a neutral weather.
+
+## GOG Support
 If you use the GOG version of the game, activate all the mods under the **GOG Support** separator
+
+## Setup and Configuration
 
 Make sure the dropdown box on the right is set to `SKSE` and press the Run button.
 
