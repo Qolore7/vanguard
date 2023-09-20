@@ -13,6 +13,23 @@
 ---
 
 # Changelog
+
+### 1.0.2 (September 20 2023)
+This update IS save-game compatible. 
+
+**Added:**
+- Constructible Object Custom Keyword System - Light Usability Tweaks
+- Unarmed Moveset for MCO
+- DaVinci ReShade (only LUT setting enabled to give some extra vibrance at no performance cost)
+- ReShade Helpe
+
+**Updated:**
+- Critter Spawn Congestion Fix
+- Reliquary of Myth
+
+**Changes:**
+- Added a copy of the vanilla Skyrim.ccc file to disable the AE DLC content without having to manually deactivate the DLC itself
+
 ### 1.0.1 (September 17 2023)
 This update IS save-game compatible. You will get a message about a missing plugin when loading your save, but that is okay to ignore.
 
