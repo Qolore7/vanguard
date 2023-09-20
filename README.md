@@ -90,7 +90,7 @@ There are a few optional mods that can be found under the `Optional Mods` separa
 - **Simple Degredation**: Adds a lightweight weapon condition system that makes tempered weapons slowly degrade back to their untempered state. Can be disabled if you dislike the feature.
 
 ## ReShade
-The list comes with an optional ReShade preset that makes the game a lot more vibrant. It is disabled by default as I think it can make some of the brighter weathers look a little too washed out, but it is up to personal preference. I highly recommend trying it out for yourself. It should have little to no performance impact. [Here](https://imgsli.com/MjA2NzY0) is a comparison shot of the ReShade off and on during a neutral weather.
+The list comes with an optional ReShade preset that makes the game a lot more vibrant. It is enabled by default, but it can make some of the brighter weathers look a little too washed out so you may want to disable it. I highly recommend trying it out for yourself. It should have little to no performance impact. [Here](https://imgsli.com/MjA2NzY0) is a comparison shot of the ReShade off and on during a neutral weather.
 
 ## GOG Support
 If you use the GOG version of the game, activate all the mods under the **GOG Support** separator
