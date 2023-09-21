@@ -14,6 +14,14 @@
 
 # Changelog
 
+### 1.0.3 (September 20 2023)
+This update IS save-game compatible. 
+
+**Changes:**
+- Removed the edited Skyrim.ccc file to disable the CC content as Wabbajack has issues handling it. Instead, users of the paid AE DLC now have an extra installation step to install the Skyrim.ccc file manually
+- Fixed ArteFakes missing BSA
+- Fixed Nordic Animations not applying to player
+
 ### 1.0.2 (September 20 2023)
 This update IS save-game compatible. 
 
