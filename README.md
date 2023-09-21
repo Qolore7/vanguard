@@ -41,7 +41,7 @@ You can find a summary of all changes on the [Gameplay Changes](GAMEPLAY.md) pag
 ## Requirements:
 
 - An fresh installation of the **English** version from Steam or GOG
-  * The paid Anniversary Upgrade is NOT required. If you have it, all of the new content will be ignored.
+  * The paid Anniversary Upgrade is NOT required. If you have it, there will be extra installation instructions at the end to disable the content.
   * Only the English version is supported. I understand that this may be frustrating for non-English speaking users, but due to the core file differences between the different versions, only one version can be supported. 
   * The game MUST be installed outside of any default Windows folders, such as `Program Files`, your `Desktop`, or `Documents`. If you have your Steam library in any of these locations, please follow [these](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide) instructions to move it.
 
@@ -74,6 +74,18 @@ The download and installation process can take a little while (an hour or more) 
 # Startup
 
 Open the installation folder and double click on the program called `ModOrganizer.exe`.
+
+## Disabling Creation Club Content
+
+Users of the paid Anniversary Edition DLC will need to disable the content as it is not compatible with this list. 
+
+1. Download the `Vanguard CC Manager` file from [here](https://cdn.discordapp.com/attachments/773375221792899074/1154401209403322440/NoDelete_Vanguard_CC_Manager.7z)
+2. Select the <img src="https://vivanewvegas.moddinglinked.com/img/mo2%20archive.webp"> button at the top of MO2
+3. From the pop-up window, navigate to where the file downloaded and double-click it
+4. From the next pop-up, set the name of the file at the top of the window to `[NoDelete] Vanguard CC Manager`
+5. Select `Ok` then `Ignore` to the error pop-up (it is a false-flag)
+6. Enable the check-box next to the mod in the left pane of MO2
+7. Right-click on the mod in the left pane of MO2 and select `Ignore missing data`
 
 ## Optional Mods
 
