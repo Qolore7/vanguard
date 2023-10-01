@@ -14,7 +14,7 @@
 
 # Changelog
 
-### 1.0.3 (September 20 2023)
+### 1.0.3 (October 1 2023)
 This update IS save-game compatible. You will get a warning about a missing plugin on load, but it is just because a plugin had its named changed.
 
 **Added:**
@@ -35,7 +35,7 @@ This update IS save-game compatible. You will get a warning about a missing plug
   **Changes:**
   - Fixed GOG support (GOG plugin for MO2 was not installed properly)
 
-### 1.0.3 (September 20 2023)
+### 1.0.3 (September 21 2023)
 This update IS save-game compatible. 
 
 **Changes:**
