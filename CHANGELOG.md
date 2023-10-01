@@ -15,6 +15,27 @@
 # Changelog
 
 ### 1.0.3 (September 20 2023)
+This update IS save-game compatible. You will get a warning about a missing plugin on load, but it is just because a plugin had its named changed.
+
+**Added:**
+- Twilight
+- Picta Series - Improved Sky Meshes
+
+**Updated:**
+- Spell Perk Item Distributor
+- powerofthree's Tweaks
+- Skyrim Landscape and Water Fixes
+- Simple SNow Improvements - Skyrim
+- Natural Waterfalls
+- Skyrim Skill Uncapper
+- Thaumaturgy
+- No Artifacts from Fishing
+- Narrative Gameplay Consistent Dialogue Tweaks
+
+  **Changes:**
+  - Fixed GOG support (GOG plugin for MO2 was not installed properly)
+
+### 1.0.3 (September 20 2023)
 This update IS save-game compatible. 
 
 **Changes:**
