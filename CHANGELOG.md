@@ -14,7 +14,41 @@
 
 # Changelog
 
-### 1.0.3 (October 1 2023)
+### 1.0.5 (October 19 2023)
+This update IS save-game compatible. You will get a warning about a missing plugin on load, but it is safe to ignore.
+
+**Added:**
+- Sepia - SmoothCam Preset (the new default choice, but the old Vanilla Enhanced 2 is still available as an option)
+- SoulsLike SmoothCam Preset (as an additional option)
+- Bards Go The F To Sleep
+- Disk Cache Enabler
+- Sswaye's Flagships Resources (ReShade resouces)
+
+Removed:
+- Vanilla HDR
+- Title Screen Brightness Fix for Vanilla HDR
+- Vanilla Script Mico-Optimizations - Adoption Fix (redundant with latest version)
+
+Changes:
+- Updated ReShade preset to achieve similar look to Vanilla HDR without its side-effects (overly-red fire effects, banding on light sources)
+
+Updated: 
+- Apothecary
+- Journeyman
+- Cursed - An Alternate Death Mod
+- Starfrost
+- Artifcats of the Ancestors
+- Vanilla Script Micro-Optimizations
+- CritterSpawn Congestion Fix
+- Comprehensive Attack Rate Patch
+- Narrative Gameplay Consistent Tweaks
+- Civil War Lines Expansion
+- Favor Jobs Overhaul
+- Natural Waterfalls
+- Skyrim Landscape and Water Fixes
+- Thunderbolt - HD Lightning
+
+### 1.0.4 (October 1 2023)
 This update IS save-game compatible. You will get a warning about a missing plugin on load, but it is just because a plugin had its named changed.
 
 **Added:**
