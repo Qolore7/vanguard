@@ -32,6 +32,9 @@
 ﻿Vanguard is an MCO-based modlist that, rather than trying to completely transform the game into a souls-like ARPG, takes advantage of the incredible new mechanics and gameplay offered by modern combat mods to strengthen the core aspects we have all come to know and love from the Elder Scrolls series - all while maintaining an incredibly lightweight footprint. Visuals are completely overhauled through a core of Skyland﻿, RAID Weathers, and Community Shaders﻿﻿ which manages to create a beautiful game while still staying EXTREMELY performance friendly. Although combat is a major focus of the modlist, Vanguard also features many other overhauls, enhancements, and high-quality new content that has been meticulously edited and balanced to fit in with Skyrim's world - such as Open Cities, Cities of the North, Northern Roads, jayserpa's quest expansions and other fantastic mods, Sirenroot, The Environs series, Unmarked Location Pack, and SO much more. Check out the full modlist for more info!﻿﻿﻿﻿﻿﻿﻿﻿
 
 
+ You can also watch a great showcase of this list [here](https://youtu.be/4luXs9L0_4w?si=V0ZQIjn0QKGPvn0a)!
+
+
 ## List Contents
 
 You can browse the full list contents [here](https://loadorderlibrary.com/lists/Vanguard) if you want to know exactly what you're getting.
